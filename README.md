@@ -21,7 +21,7 @@ This repository contains code and explanations demonstrating SentencePiece token
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/mahdertesf/SentencePiece-and-Byte-Pair-Encoding-BPE-Implementation.git
     cd [repository name]
     ```
 
