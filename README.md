@@ -2,8 +2,9 @@
 
 ## Overview
 
-This repository contains code and explanations demonstrating SentencePiece tokenization and the Byte-Pair Encoding (BPE) algorithm, both fundamental techniques for text encoding in Natural Language Processing (NLP).  The goal is to provide a clear understanding of how these methods work, particularly in the context of preparing text data for use with neural network models.
+This repository contains code and explanations demonstrating SentencePiece tokenization and the Byte-Pair Encoding (BPE) algorithm, both fundamental techniques for text encoding in Natural Language Processing (NLP). The goal is to provide a clear understanding of how these methods work, particularly in the context of preparing text data for use with neural network models.
 
+**Note:** The core structure and exercises are adapted from a programming assignment in the **[Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)** by DeepLearning.AI.
 ## Contents
 
 *   **`C4W3_SentencePiece_and_BPE.ipynb`:** A Jupyter Notebook containing the main code and explanations.  It covers:
